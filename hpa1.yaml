@@ -12,5 +12,5 @@ spec:
     name: php-apache
   targetCPUUtilizationPercentage: 50
 status:
-  currentReplicas: 0
-  desiredReplicas: 
+  currentReplicas: 5
+  desiredReplicas: 8
